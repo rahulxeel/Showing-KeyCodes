@@ -1,0 +1,34 @@
+
+body {
+  background-color: lightgreen;
+}
+
+
+
+#abc{
+
+position: relative;
+margin-top: 10%;
+margin-left: 40%;
+font-size: 80px;
+color : white;
+border: 2px solid black;
+height : 100px;
+width : 300px;
+text-align: center;
+background-color: lightblue;
+
+
+}
+
+#oa{
+
+
+position: relative;
+margin-top: 10%;
+margin-left: 15%;
+font-size: 70px;
+color : white;
+
+
+}
